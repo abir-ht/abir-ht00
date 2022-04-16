@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abir-ht00
+- 👀 I’m interested in Problem Solving, AI, SWE, Open Source Project
+- 🌱 I’m currently learning C++, DS n Algorithm
+- 💞️ I’m looking to collaborate on everything where I can learn
+- 📫 Want to reach me just say hello at abirhasan.aht@gmail.com and please mention "TYGH"
